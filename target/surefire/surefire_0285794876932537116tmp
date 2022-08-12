@@ -1,0 +1,6 @@
+#surefire_0
+#Fri Aug 12 11:21:04 AEST 2022
+testNGXMLFile=src\\main\\resources\\testng.xml
+user.dir=C\:\\Users\\User\\eclipse-workspace\\testrun
+localRepository=C\:\\Users\\User\\.m2\\repository
+basedir=C\:\\Users\\User\\eclipse-workspace\\testrun
