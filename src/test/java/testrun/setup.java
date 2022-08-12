@@ -8,7 +8,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class setup {
 
 	 WebDriver driver;
-	 String URL = "google.com";
+	 //String URL = "google.com";
 	
 	
 	public WebDriver Setup(String browser) 
@@ -16,6 +16,7 @@ public class setup {
 	
 	{
 		// TODO Auto-generated method stub
+		
 		
 		
 		
